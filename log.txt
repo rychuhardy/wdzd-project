@@ -1,0 +1,14 @@
+Loaded graph with 10 nodes and 16 edges
+Finished calculating diameter. Time elapsed: 0.005952290497960768s
+Node 1 out of 10. Time elapsed 0.006014244817754939s
+Node 2 out of 10. Time elapsed 0.006598427295436772s
+Node 3 out of 10. Time elapsed 0.00716010749658959s
+Node 4 out of 10. Time elapsed 0.007906481707694844s
+Node 5 out of 10. Time elapsed 0.008480435877863488s
+Node 6 out of 10. Time elapsed 0.009032472246218157s
+Node 7 out of 10. Time elapsed 0.009572526882914519s
+Node 8 out of 10. Time elapsed 0.010127193387486863s
+Node 9 out of 10. Time elapsed 0.01068069094262913s
+Node 10 out of 10. Time elapsed 0.011230389412123643s
+Finished algorithm. Time elapsed 0.011779795644260634s. Starting writitng result to json.
+Done.
