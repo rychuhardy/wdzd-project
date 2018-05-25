@@ -12,7 +12,7 @@ def write_time():
 
 
 # graph_path = './data/dataset3/deezer_clean_data/HR_edges.csv'
-graph_path = './data/dataset4/test4.text'
+graph_path = './data/dataset4/test4.txt'
 # graph_path = './data/testdata.txt'
 log_file = open("log.txt", 'a', 10)
 start_time = time.perf_counter()
