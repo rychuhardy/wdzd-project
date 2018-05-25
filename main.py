@@ -1,17 +1,18 @@
-import networkx as nx
-import numpy as np
-import json
-import time
-import sendgrid
-import os
 import datetime
+import json
+import os
+import time
+
+import networkx as nx
+import sendgrid
 
 
 def write_time():
     log_file.write("{0}\t".format(datetime.datetime.now()))
 
 
-graph_path = './data/dataset3/deezer_clean_data/HR_edges.csv'
+# graph_path = './data/dataset3/deezer_clean_data/HR_edges.csv'
+graph_path = './data/dataset4/test4.text'
 # graph_path = './data/testdata.txt'
 log_file = open("log.txt", 'a', 10)
 start_time = time.perf_counter()
